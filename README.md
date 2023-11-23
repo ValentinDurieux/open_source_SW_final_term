@@ -60,5 +60,7 @@ Contact Information
 For questions or inquiries, please contact:
 
 Valentin Durieux
+
 valentin.durieux@epitech.eu
+
 50231621
